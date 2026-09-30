@@ -181,7 +181,7 @@ git push origin main
 
 ## 3. Proyecto de partida
 
-Se proporciona un proyecto Java estándar de Eclipse llamado inicialmente:
+Se proporciona un proyecto Java estándar de Eclipse llamado inicialmente en un archivo .zip:
 
 ```text
 P1_INICIALES
@@ -635,7 +635,7 @@ No debe subirse la carpeta de salida `bin/` ni otros ficheros generados temporal
 
 ## 11. Entrega
 
-La entrega de la práctica se realizará mediante el **repositorio único del grupo**.
+La entrega de la práctica se realizará por cada miembro del grupo indicando la dirección del **repositorio único del grupo** en la tarea asociada a la práctica del aula virtual.
 
 La carpeta `P1/` deberá estar completa en la rama:
 
