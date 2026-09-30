@@ -148,7 +148,6 @@ El fichero `README_P1.md` será el **informe de la práctica** y contendrá:
 - relación completa de disconformidades observadas;
 - solución adoptada para cada disconformidad;
 - miembro del grupo responsable de cada corrección;
-- identificador del commit correspondiente a cada corrección; y
 - captura de pantalla del análisis final.
 
 La carpeta `proyecto/` contendrá el **proyecto Eclipse final**, con todas las modificaciones realizadas para resolver las disconformidades.
@@ -471,20 +470,8 @@ En `README_P1.md`, cada solución debe indicar:
 - localización;
 - problema detectado;
 - solución adoptada;
-- nombre y apellidos del miembro responsable; y
-- identificador abreviado del commit.
+- nombre y apellidos del miembro responsable; 
 
-Por ejemplo:
-
-```text
-Commit: a1b2c3d
-```
-
-El identificador puede obtenerse mediante:
-
-```bash
-git log --oneline
-```
 
 ### 7.5. Correcciones relacionadas
 
@@ -841,7 +828,6 @@ En el análisis inicial se han identificado las siguientes disconformidades:
 
 **Localización:** `src/.../Clase.java`, línea XX  
 **Responsable:** NOMBRE Y APELLIDOS  
-**Commit:** `abcdef1`
 
 **Problema detectado**
 
@@ -857,7 +843,6 @@ Descripción de la modificación realizada para resolver la disconformidad.
 
 **Localización:** `src/.../Clase.java`, línea XX  
 **Responsable:** NOMBRE Y APELLIDOS  
-**Commit:** `abcdef2`
 
 **Problema detectado**
 
@@ -873,7 +858,6 @@ Descripción de la modificación realizada para resolver la disconformidad.
 
 **Localización:** `src/.../Clase.java`, línea XX  
 **Responsable:** NOMBRE Y APELLIDOS  
-**Commit:** `abcdef3`
 
 **Problema detectado**
 
